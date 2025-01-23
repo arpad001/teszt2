@@ -18,9 +18,23 @@ Ez a leírás gyors áttekintést nyújt az összes Markdown szintaktikai elemr�
 
 *dőlt szöveg*
 
+### Bekezdés, sortörés
+
+Az elektromos áram munkáját a feszültség és az áramerősség értelmezése alapján számíthatjuk ki. **I** erősségű áramnál **t** idő alatt a vezetőn **I\*t** töltés halad át és a vezető végpontjai között **U** nagyságú *FESZÜLTSÉG* van.
+A végzett munka a töltésnek és a feszültségnek szorzata: 
+
+W=U\*Q=U\*I\*t=P\*t
+
+A váltakozó áram teljesítménye (látszólagos teljesítménye):  
+P=U<sub>eff\*I<sub>eff<sub> (Ha szükséges a képletekbe behelyettesíthetjük Ohm törvényét: U=R\*I). 
+
+Ha a feszültséget Voltban, az áramerősséget Amperben adjuk meg, akkor az elektromos teljesítményt Wattban kapjuk.  
+Tehát az átváltás: 1 Watt=1 Volt\* 1 Amper. (1 W=1 V\* 1 A)
+
+
 ### Idézet
 
-> Idézet szöveg
+> *Idézet szöveg dőlten*
 
 ### Számozás
 
@@ -67,7 +81,7 @@ Ez a leírás gyors áttekintést nyújt az összes Markdown szintaktikai elemr�
 
 ### Kódblokk
 
-```
+```python
 {
   "keresztnev": "János",
   "vezeteknev": "Szabó",
@@ -81,9 +95,7 @@ Itt van egy mondat lábjegyzettel. [^1]
 
 [^1]: Ez a lábjegyzet.
 
-### Címsor azonosítóval
 
-### Nagyszerű címem {#custom-id}
 
 ### Definiciós lista
 
@@ -105,15 +117,3 @@ fogalom
 Ez olyan vicces! :joy:
 
 (Lásd még [Emoji másolása és beillesztése](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Kiemelés
-
-Ki kell emelnem ezeket a ==nagyon fontos szavakat==.
-
-### Alsó index
-
-H~2~O
-
-### Felső index
-
-X^2^
