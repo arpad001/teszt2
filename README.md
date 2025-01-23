@@ -26,10 +26,10 @@ A végzett munka a töltésnek és a feszültségnek szorzata:
 W=U\*Q=U\*I\*t=P\*t
 
 A váltakozó áram teljesítménye (látszólagos teljesítménye):  
-P=U<sub>eff</sub>\*I<sub>eff</sub> (Ha szükséges a képletekbe behelyettesíthetjük Ohm törvényét: U=R\*I). 
+P=U<sub>eff</sub>\*I<sub>eff</sub> (Ha szükséges a képletekbe behelyettesíthetjük Ohm törvényét: **U=R\*I**). 
 
-Ha a feszültséget Voltban, az áramerősséget Amperben adjuk meg, akkor az elektromos teljesítményt Wattban kapjuk.  
-Tehát az átváltás: 1 Watt=1 Volt\* 1 Amper. (1 W=1 V\* 1 A)
+Ha a feszültséget **Volt**ban, az áramerősséget **Amper**ben adjuk meg, akkor az elektromos teljesítményt **Watt**ban kapjuk.  
+Tehát az átváltás: **1 Watt=1 Volt\* 1 Amper**. (1 W=1 V\* 1 A)
 
 
 ### Idézet
