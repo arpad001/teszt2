@@ -1,6 +1,6 @@
 # Markdown Cheat Sheet
 
-Thanks for visiting [Markdown segédlet](https://www.markdownguide.org)!
+Köszönöm a látogatást [Markdown segédlet](https://www.markdownguide.org)!
 
 Ez a leírás gyors áttekintést nyújt az összes Markdown szintaktikai elemről.Nem tud minden esetet lefedni, ezért ha további információra van szüksége ezen elemek bármelyikével kapcsolatban, tekintse meg a referencia útmutatókat [alapvető szintaxis](https://www.markdownguide.org/basic-syntax/) és [bővített szintaxis](https://www.markdownguide.org/extended-syntax/).
 
