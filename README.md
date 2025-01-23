@@ -23,7 +23,7 @@ Ez a leírás gyors áttekintést nyújt az összes Markdown szintaktikai elemr�
 Az elektromos áram munkáját a feszültség és az áramerősség értelmezése alapján számíthatjuk ki. **I** erősségű áramnál **t** idő alatt a vezetőn **I\*t** töltés halad át és a vezető végpontjai között **U** nagyságú *FESZÜLTSÉG* van.
 A végzett munka a töltésnek és a feszültségnek szorzata: 
 
-W=U\*Q=U\*I\*t=P\*t
+**W=U\*Q=U\*I\*t=P\*t**
 
 A váltakozó áram teljesítménye (látszólagos teljesítménye):  
 P=U<sub>eff</sub>\*I<sub>eff</sub> (Ha szükséges a képletekbe behelyettesíthetjük Ohm törvényét: **U=R\*I**). 
