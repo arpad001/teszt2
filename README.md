@@ -25,7 +25,7 @@ A végzett munka a töltésnek és a feszültségnek szorzata:
 
 **W=U\*Q=U\*I\*t=P\*t**
 
-A váltakozó áram teljesítménye (látszólagos teljesítménye):  
+A **váltakozó** áram teljesítménye (látszólagos teljesítménye):  
 P=U<sub>eff</sub>\*I<sub>eff</sub> (Ha szükséges a képletekbe behelyettesíthetjük Ohm törvényét: **U=R\*I**). 
 
 Ha a feszültséget **Volt**ban, az áramerősséget **Amper**ben adjuk meg, akkor az elektromos teljesítményt **Watt**ban kapjuk.  
